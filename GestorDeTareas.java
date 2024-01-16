@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.Set;
 
 public class GestorDeTareas {
-    private Set<String> tareasPendientes;
+    private Set <String> tareasPendientes;
 
     public GestorDeTareas(){
         tareasPendientes = new HashSet<>();
